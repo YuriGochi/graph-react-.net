@@ -1,0 +1,17 @@
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Application.deps.json
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Application.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Application.pdb
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.AssemblyInfoInputs.cache
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.AssemblyInfo.cs
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.csproj.CoreCompileInputs.cache
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\refint\DataTeamDashboard.Application.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.pdb
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\ref\DataTeamDashboard.Application.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Domain.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.dll
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Domain.pdb
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.pdb
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.csproj.AssemblyReference.cache
+D:\Source\Repos\datateamdashboardbackend\DataTeamDashboard.Application\obj\Debug\net8.0\DataTeamDashboard.Application.csproj.CopyComplete

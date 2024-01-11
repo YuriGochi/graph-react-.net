@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iKUu8JXbvgEoT+2be3KCztPGK4jWbSWt9pAQYQ23g5o=",
+  "Source": "DataTeamDashboard.Api",
+  "BasePath": "_content/DataTeamDashboard.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

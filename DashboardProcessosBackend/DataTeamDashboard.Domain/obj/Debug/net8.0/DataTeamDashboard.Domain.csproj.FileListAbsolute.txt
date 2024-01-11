@@ -1,0 +1,11 @@
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\bin\Debug\net8.0\DataTeamDashboard.Domain.deps.json
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\bin\Debug\net8.0\DataTeamDashboard.Domain.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\bin\Debug\net8.0\DataTeamDashboard.Domain.pdb
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.AssemblyInfoInputs.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.AssemblyInfo.cs
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.csproj.CoreCompileInputs.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\refint\DataTeamDashboard.Domain.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\DataTeamDashboard.Domain.pdb
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Domain\obj\Debug\net8.0\ref\DataTeamDashboard.Domain.dll

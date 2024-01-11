@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DataTeamDashboard.Api.props" />
+</Project>

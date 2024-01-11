@@ -1,0 +1,26 @@
+version: '3'
+
+services:
+  frontend:
+    build:
+      context: ./DashboardProcessosFrontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+
+  backend:
+    build:
+      context: ./DashboardProcessosBackend
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    depends_on:
+      - database
+
+  database:
+    image: mariadb
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: MariaDB
+    ports:
+      - "3306:3306"

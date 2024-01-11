@@ -1,0 +1,17 @@
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.deps.json
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.runtimeconfig.json
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Infrastructure.pdb
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Domain.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\bin\Debug\net8.0\DataTeamDashboard.Domain.pdb
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.csproj.AssemblyReference.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.AssemblyInfoInputs.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.AssemblyInfo.cs
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.csproj.CopyComplete
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\refint\DataTeamDashboard.Infrastructure.dll
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.pdb
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\DataTeamDashboard.Infrastructure.genruntimeconfig.cache
+D:\Source\Repos\DataTeamDashboardBackend\DataTeamDashboard.Infrastructure\obj\Debug\net8.0\ref\DataTeamDashboard.Infrastructure.dll
